@@ -1,0 +1,16 @@
+.button-restart{
+    background-color: #fac1cf;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    margin-left: 575px;
+    margin-bottom: 20px;
+    margin-top: -40px;
+    border: none;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+}
+body{
+    background-color: #f790a9;
+}
